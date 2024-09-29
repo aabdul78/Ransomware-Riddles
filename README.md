@@ -36,6 +36,9 @@ Riddle 1:
 
 I used Caesar Cipher Decoder with a shift value of 8 to the ciphertext (ozcjmz). After processed, the result was  (gruber). Once I deciphered the message, my key for Riddle 1 is (6skd8s).
 
+![image](https://github.com/user-attachments/assets/8f8cd01d-5b33-4e91-a437-576079493fc5)
+
+
 ![image](https://github.com/user-attachments/assets/b68ee74b-6762-4360-967b-23c0d8ef5a63)
 
 
